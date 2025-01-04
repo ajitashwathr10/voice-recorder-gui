@@ -1,2 +1,2 @@
-# voice-recorder-gui
+# Voice Recorder GUI
  
